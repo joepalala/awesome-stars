@@ -1,6 +1,7 @@
 # awesome-stars
 my list of things i starred
 
+- https://github.com/sdras/awesome-actions
 - https://github.com/airbnb/javascript
 - https://github.com/facebook/create-react-app
 - https://github.com/trekhleb/javascript-algorithms
