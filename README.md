@@ -131,6 +131,44 @@ my list of things i starred
 - https://github.com/infernojs/inferno
 - https://github.com/getify/Functional-Light-JS
 
+https://github.com/RedHatter/svelte-devtools
+https://github.com/beyonk-adventures/svelte-google-analytics
+
+## Svelte 
+- https://github.com/sveltejs/svelte
+- https://github.com/sveltejs/sapper
+
+### Svelte starter
+- https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter
+- https://github.com/single-spa/single-spa-svelte
+
+### Svelte Utilities
+- https://github.com/sveltejs/svelte-cli
+
+- https://github.com/shinnn/metalsmith-svelte
+
+- https://github.com/bordeeinc/svelte-ruby
+
+- https://github.com/tehshrike/sveltify
+- https://github.com/bordeeinc/svelte-rack
+
+### Svelte Ecosystem
+- https://sapper.svelte.dev/
+
+### Svelte PoCs
+- [Server-Side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
+- [State Management with Redux](https://github.com/lukechinworth/codenames/tree/svelte)
+- [With TypeScript](https://github.com/MiYogurt/svelte-with-ts)
+- [Routing by Andorbal](https://github.com/Andorbal/svelte-router-example)
+- [Routing by Franksey](https://github.com/Franksey/svelte-routing)
+- [Routing by Oren](https://github.com/oren/svelte-router-example)
+- [Accessors (a là Vue)](https://github.com/Rich-Harris/svelte-accessors-demo) - [(StackOverflow Question)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351)
+
+### Svelte Components
+- https://github.com/gCombinator/svelte-flat-ui
+
+### Svelte integrations
+- [Inertia-Svelte](https://github.com/inertiajs/inertia-svelte)
 
 ## frontend
 - https://github.com/parcel-bundler/parcel
