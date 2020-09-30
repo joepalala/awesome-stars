@@ -4,6 +4,7 @@ my list of things i starred
 ## javascript stuffs
 
 - https://github.com/airbnb/javascript
+- https://github.com/wesbos/JavaScript30
 - https://github.com/facebook/create-react-app
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/axios/axios
