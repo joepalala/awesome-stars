@@ -1,6 +1,10 @@
 # awesome-stars
 my list of things i starred
 
+## hacktoberfest related
+
+1. [Mighty Watcher](https://github.com/IgorPerikov/mighty-watcher) Finds issues available for contributing, based on repositories you starred
+
 ## javascript stuffs
 
 - https://github.com/airbnb/javascript
