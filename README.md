@@ -139,6 +139,16 @@ my list of things i starred
 https://github.com/RedHatter/svelte-devtools
 https://github.com/beyonk-adventures/svelte-google-analytics
 
+## Image Manipulation libraries
+
+- https://github.com/neocotic/convert-svg Converts SVG to PNG using headless Chromium. Install: `npm i convert-svg-to-png`
+
+## Storybook & Design system ideas
+
+- https://github.com/amcdnl/material-storybook
+- https://github.com/lauthieb/awesome-storybook
+
+
 ## Svelte 
 - https://github.com/sveltejs/svelte
 - https://github.com/sveltejs/sapper
@@ -198,3 +208,5 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 
 ## pretty tools
 - https://github.com/carbon-app/carbon
+
+Liked this one? Check out [awesome-design](https://github.com/jpalala/awesome-design) :) 
