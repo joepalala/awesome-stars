@@ -148,16 +148,24 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 - https://github.com/amcdnl/material-storybook
 - https://github.com/lauthieb/awesome-storybook
 
+## frontend
+- https://github.com/parcel-bundler/parcel
+- https://github.com/gulpjs/gulp
+- https://github.com/styled-components/styled-components
+- https://github.com/kriasoft/react-starter-kit
 
-## Svelte 
+- https://github.com/pure-css/pure
+
+
+### Svelte 
 - https://github.com/sveltejs/svelte
 - https://github.com/sveltejs/sapper
 
-### Svelte starter
+#### Svelte starter
 - https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter
 - https://github.com/single-spa/single-spa-svelte
 
-### Svelte Utilities
+#### Svelte Utilities
 - https://github.com/sveltejs/svelte-cli
 
 - https://github.com/shinnn/metalsmith-svelte
@@ -167,10 +175,10 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 - https://github.com/tehshrike/sveltify
 - https://github.com/bordeeinc/svelte-rack
 
-### Svelte Ecosystem
+#### Svelte Ecosystem
 - https://sapper.svelte.dev/
 
-### Svelte PoCs
+#### Svelte PoCs
 - [Server-Side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
 - [State Management with Redux](https://github.com/lukechinworth/codenames/tree/svelte)
 - [With TypeScript](https://github.com/MiYogurt/svelte-with-ts)
@@ -179,19 +187,22 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 - [Routing by Oren](https://github.com/oren/svelte-router-example)
 - [Accessors (a là Vue)](https://github.com/Rich-Harris/svelte-accessors-demo) - [(StackOverflow Question)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351)
 
-### Svelte Components
+#### Svelte Components
 - https://github.com/gCombinator/svelte-flat-ui
 
-### Svelte integrations
+#### Svelte integrations
 - [Inertia-Svelte](https://github.com/inertiajs/inertia-svelte)
 
-## frontend
-- https://github.com/parcel-bundler/parcel
-- https://github.com/gulpjs/gulp
-- https://github.com/styled-components/styled-components
-- https://github.com/kriasoft/react-starter-kit
+### Angular  
 
-- https://github.com/pure-css/pure
+- https://github.com/mgechev/angular-performance-checklist
+- Link https://ng.ant.design/docs/introduce/en
+- Link https://compodoc.app/
+
+
+### Learning Angular
+
+- https://github.com/quangv/awesome-angular-learning
 
 ## tutorials / cheatsheets
 - https://github.com/tldr-pages/tldr
