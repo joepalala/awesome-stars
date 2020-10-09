@@ -220,4 +220,84 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 ## pretty tools
 - https://github.com/carbon-app/carbon
 
+## manifestos 
+
+- https://github.com/frameworkless-movement/manifesto
+
+## design systems
+
+- https://github.com/teambit/bit
+
+## aws
+
+- https://github.com/nathanpeck/awesome-ecs
+- https://github.com/localstack/localstack
+
+## docker
+
+- https://github.com/cytopia/devilbox - A modern Docker LAMP stack and MEAN stack for local development
+
+## editors and editor plugins
+
+- https://github.com/syl20bnr/spacemacs
+- https://github.com/itchyny/lightline.vim
+- https://github.com/christoomey/vim-tmux-navigator
+- https://github.com/SirVer/ultisnips
+
+## other things 
+
+- https://github.com/Polymer/lit-element
+- https://github.com/atlas-engineer/nyxt
+- https://github.com/junegunn/fzf
+- https://github.com/ajgon/opsworks_ruby
+- https://github.com/GustavoCaso/sendbird
+- https://github.com/BurntSushi/ripgrep
+- https://github.com/stimulusjs/stimulus / https://stimulusjs.org/
+- https://github.com/alfonsobries/vue-tailwind
+- https://github.com/asdf-vm/asdf
+- https://github.com/marcwebbie/passpie
+- https://github.com/edc/bass
+- https://github.com/clvv/fasd
+- https://github.com/FineUploader/fine-uploader
+- https://github.com/rstacruz/rscss
+- https://github.com/oddbird/susy
+- https://github.com/sferik/twitter
+- https://github.com/tiangolo/fastapi
+- https://github.com/marktext/marktext
+- https://github.com/sqitchers/sqitch
+- https://github.com/maildev/maildev
+- https://github.com/rstacruz/tmuxfiles
+- https://github.com/devguides-io/devguides-2016
+- https://github.com/mtdvio/every-programmer-should-know
+- https://github.com/elixir-ecto/ecto
+- https://github.com/StevenBlack/hosts
+- https://github.com/awsm-org/awsm
+- https://github.com/crate/crate
+- https://github.com/maildev/maildev
+- https://github.com/digitalocean/kartograph
+- https://github.com/hired/stretchy - Query builder for ElasticSearch
+- https://github.com/byteclubfr/uncloak - A live theme editor for reveal.js 
+
+## productivity / utilities / cli
+
+- https://github.com/ledger/ledger
+- https://github.com/request/request
+- https://github.com/mattermost/mattermost-server
+- https://github.com/k0kubun/hamlit
+
+## php 
+
+- https://github.com/JesseObrien/laravel-cheatsheet
+- https://github.com/hidran/minimvc
+- https://github.com/ezimuel/FastPriorityQueue
+- https://github.com/CodelyTV/php-ddd-example
+- https://github.com/stretchy/stretchy
+- https://github.com/ezimuel/PHP-design-patterns
+
+## hackernews bookmarks
+
+- https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_argparse_builder.html
+
+
+
 Liked this one? Check out [awesome-design](https://github.com/jpalala/awesome-design) :) 
