@@ -299,5 +299,49 @@ https://github.com/beyonk-adventures/svelte-google-analytics
 - https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_argparse_builder.html
 
 
+## My other lists
 
 Liked this one? Check out [awesome-design](https://github.com/jpalala/awesome-design) :) 
+
+## Other awesome lists
+
+These are awesomelists that I liked. There are many more at https://github.com/sindresorhus/awesome.
+
+- https://github.com/goabstract/Awesome-Design-Tools
+- https://github.com/dypsilon/frontend-dev-bookmarks
+- https://github.com/aleksandar-todorovic/awesome-linux
+- https://github.com/sindresorhus/awesome-nodejs
+- https://github.com/irazasyed/awesome-cloudflare
+- https://github.com/jonleibowitz/awesome-digitalocean#readme
+- https://github.com/sindresorhus/awesome-observables
+- https://github.com/standard/awesome-standard
+- https://github.com/wbinnssmith/awesome-promises
+- https://github.com/parro-it/awesome-micro-npm-packages
+- https://github.com/Kikobeats/awesome-network-js
+- https://github.com/loverajoel/jstips
+- https://github.com/stoeffel/awesome-fp-js
+- https://github.com/dustinspecker/awesome-eslint
+- https://github.com/avajs/awesome-ava
+- https://github.com/sindresorhus/awesome-npm
+- https://github.com/maxogden/maintenance-modules
+- https://github.com/feross/awesome-mad-science
+- https://github.com/Richienb/awesome-ponyfills
+- https://github.com/markets/awesome-ruby
+- https://github.com/ziadoz/awesome-php
+- https://github.com/svaksha/Julia.jl
+- https://github.com/krzjoa/awesome-python-data-science
+- https://github.com/timofurrer/awesome-asyncio
+- https://github.com/denolib/awesome-deno
+- https://github.com/ianstormtaylor/awesome-heroku
+- https://github.com/jaywcjlove/awesome-mac
+- https://github.com/jdrgomes/awesome-postcss
+- https://github.com/vuejs/awesome-vue
+- https://github.com/aurelia-contrib/awesome-aurelia
+- https://github.com/web-padawan/awesome-lit-html
+- https://github.com/automata/awesome-jamstack
+- https://github.com/agarrharr/awesome-static-website-services
+- https://github.com/chiraggude/awesome-laravel
+- https://github.com/veggiemonk/awesome-docker
+- https://github.com/fcambus/nginx-resources
+- https://github.com/nadunindunil/awesome-material-ui
+- https://github.com/componently-com/awesome-building-blocks-for-web-apps
