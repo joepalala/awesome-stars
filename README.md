@@ -130,28 +130,32 @@ my list of things i starred
 
 - https://github.com/brianc/node-postgres
 ## React and other Frontend 
-
 - https://github.com/bonsaicss/bonsai.css
-
 - https://github.com/react-static/react-static
-
 - https://github.com/single-spa/single-spa
-- 
 - https://github.com/erikras/react-redux-universal-hot-example
 - https://github.com/gaearon/react-hot-loader
 - https://github.com/emotion-js/emotion
-
+- https://github.com/infernojs/inferno
+- https://github.com/getify/Functional-Light-JS
 - https://github.com/futurice/pepperoni-app-kit : React Native App Starter Kit
+
+## Javascript prep
 - https://github.com/nodegit/nodegit
 - https://github.com/shoutem/ui : Customizable set of components for React Native applications
 - https://github.com/bespokejs/bespoke
 - https://github.com/browserify/browserify-handbook
 - https://github.com/trekhleb/javascript-algorithms
+
+## Other nodejs things
+- https://github.com/talyssonoc/node-api-boilerplate
+
+## Compile tools
 - https://github.com/vitejs/vite
 - https://github.com/kriskowal/q
 - https://github.com/acdlite/recompose
-- https://github.com/infernojs/inferno
-- https://github.com/getify/Functional-Light-JS
+
+
 ## React Tag inputs
 - [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects.
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags.
