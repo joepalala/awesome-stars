@@ -129,6 +129,7 @@ my list of things i starred
 - https://github.com/nodeca/js-yaml
 
 - https://github.com/brianc/node-postgres
+- 
 ## React and other Frontend 
 - https://github.com/bonsaicss/bonsai.css
 - https://github.com/react-static/react-static
@@ -139,6 +140,9 @@ my list of things i starred
 - https://github.com/infernojs/inferno
 - https://github.com/getify/Functional-Light-JS
 - https://github.com/futurice/pepperoni-app-kit : React Native App Starter Kit
+## React articles
+
+- [Things I think about when I write React code](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 
 ## Javascript prep
 - https://github.com/nodegit/nodegit
