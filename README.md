@@ -1,6 +1,10 @@
 # awesome-stars
 my list of things i starred
 
+## Articles to read
+
+- [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
+
 ## hacktoberfest related
 
 1. [Mighty Watcher](https://github.com/IgorPerikov/mighty-watcher) Finds issues available for contributing, based on repositories you starred
