@@ -4,6 +4,15 @@ my list of things i starred
 ## Articles to read
 
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
+## Interesting github projects
+
+- https://github.com/dylanaraps/pure-bash-bible
+- https://github.com/todotxt/todo.txt-cli
+- https://github.com/mayajs/maya
+- https://github.com/solidjs/solid
+- 
+## Emacs
+- https://github.com/noctuid/evil-guide
 
 ## hacktoberfest related
 
