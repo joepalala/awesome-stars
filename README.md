@@ -6,11 +6,11 @@ my list of things i starred
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
 ## Interesting github projects
 
-- https://github.com/dylanaraps/pure-bash-bible
-- https://github.com/todotxt/todo.txt-cli
-- https://github.com/mayajs/maya
-- https://github.com/solidjs/solid
-- 
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) A collection of pure bash alternatives to external processes. 
+- [Todo.txt-cli](https://github.com/todotxt/todo.txt-cli)  A simple and extensible shell script for managing your todo.txt file.
+- [MayaJS](https://github.com/mayajs/maya) A simple Node.js framework for creating fast and scalable server-side applications.
+- [SolidJS](https://github.com/solidjs/solid)A declarative, efficient and flexible JavaScript library for building user interfaces.
+- [Git Toobelt](https://github.com/nvie/git-toolbelt) Helper tools to make everyday life with Git much easier. 
 ## Emacs
 - https://github.com/noctuid/evil-guide
 
