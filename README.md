@@ -18,8 +18,11 @@ my list of things i starred
 
 1. [Mighty Watcher](https://github.com/IgorPerikov/mighty-watcher) Finds issues available for contributing, based on repositories you starred
 
-## javascript stuffs
+## frontend javascript things
 
+- https://github.com/react-boilerplate/react-boilerplate
+- https://github.com/lerna/lerna
+- https://github.com/kentcdodds/kcd-scripts
 - https://github.com/airbnb/javascript
 - https://github.com/wesbos/JavaScript30
 - https://github.com/facebook/create-react-app
@@ -27,11 +30,22 @@ my list of things i starred
 - https://github.com/axios/axios
 - https://github.com/mui-org/material-ui
 - https://github.com/goldbergyoni/nodebestpractices
-- https://github.com/react-boilerplate/react-boilerplate
-- https://github.com/lerna/lerna
 - https://github.com/github/fetch
+
+## backend things
 - https://github.com/remy/nodemon
+- https://www.npmjs.com/package/forever
+- https://pm2.keymetrics.io/
 - https://github.com/markedjs/marked
+### Logging
+
+- https://github.com/winstonjs/winston
+- https://github.com/trentm/node-bunyan
+
+### Devops/Monitoring
+- https://github.com/fzaninotto/uptime
+
+### uploader
 - https://github.com/transloadit/uppy
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/hammerjs/hammer.js
@@ -41,7 +55,6 @@ my list of things i starred
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/defunkt/jquery-pjax
 - https://github.com/wekan/wekan
-- https://github.com/winstonjs/winston
 - https://github.com/visionmedia/superagent
 - https://github.com/jquense/yup
 - https://github.com/Matt-Esch/virtual-dom
@@ -56,10 +69,17 @@ my list of things i starred
 - https://github.com/vuejs-templates/webpack
 - https://github.com/sdelements/lets-chat
 - https://github.com/afaqurk/linux-dash
+
+## Jquery things
+
+
+- https://github.com/carhartl/jquery-cookie
+
+## Crypto things
 - https://github.com/ethereum/web3.js
 
+## Career things
 - https://github.com/hacksalot/HackMyResume
-- https://github.com/carhartl/jquery-cookie
 - https://github.com/olistic/warriorjs
 - https://github.com/addyosmani/critical
 - https://github.com/DevExpress/testcafe
