@@ -31,12 +31,15 @@ my list of things i starred
 - https://github.com/mui-org/material-ui
 - https://github.com/goldbergyoni/nodebestpractices
 - https://github.com/github/fetch
-
+- https://github.com/giltayar/proposal-types-as-comments
+- [loadCSS](https://github.com/filamentgroup/loadCSS): Load CSS asynchronously
 ## backend things
 - https://github.com/remy/nodemon
 - https://www.npmjs.com/package/forever
 - https://pm2.keymetrics.io/
 - https://github.com/markedjs/marked
+
+
 ### Logging
 
 - https://github.com/winstonjs/winston
@@ -95,7 +98,7 @@ my list of things i starred
 - https://github.com/mleibman/SlickGrid
 - https://github.com/matthew-andrews/isomorphic-fetch
 - https://github.com/umdjs/umd
-- https://github.com/filamentgroup/loadCSS
+- 
 - https://github.com/google/lovefield
 - https://github.com/rauchg/slackin
 - https://github.com/hackmdio/codimd
