@@ -1,6 +1,35 @@
 # awesome-stars
 my list of things i starred
 
+## Other awesome lists
+
+- [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted/#readme)
+- [Awesome-vim](https://github.com/akrawchyk/awesome-vim#readme)
+- [Awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku#readme)
+- [Awesome-maintenance-modules](https://github.com/maxogden/maintenance-modules#readme)
+- [Awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+- https://github.com/enaqx/awesome-react#readme
+- https://github.com/RyanZim/awesome-npm-scripts#readme
+- https://github.com/Richienb/awesome-ponyfills#readme
+- https://github.com/hachiojipm/awesome-perl#readme
+- https://github.com/vinta/awesome-python#readme
+- https://github.com/qinwf/awesome-R#readme
+- https://github.com/ziadoz/awesome-php#readme
+- https://github.com/mateusortiz/webcomponents-the-right-way#readme
+- https://github.com/Granze/awesome-polymer#readme
+- https://github.com/sturobson/BEM-resources#readme
+- https://github.com/afonsopacifer/awesome-flexbox#readme
+- https://github.com/jonathandion/awesome-emails#readme
+- https://github.com/unicodeveloper/awesome-nextjs#readme
+- https://github.com/vuejs/awesome-vue#readme
+- https://github.com/choojs/awesome-choo#readme
+- https://github.com/TheComputerM/awesome-svelte#readme
+- https://github.com/automata/awesome-jamstack#readme
+- https://github.com/aniftyco/awesome-tailwindcss#readme
+- https://github.com/sitepoint-editors/awesome-symfony#readme
+- https://github.com/awesome-css-group/awesome-css#readme
+- https://github.com/aldi/awesome-bulma#readme#readme
+
 ## Articles to read
 
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
