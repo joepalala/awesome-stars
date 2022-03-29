@@ -29,7 +29,7 @@ my list of things i starred
 - https://github.com/sitepoint-editors/awesome-symfony#readme
 - https://github.com/awesome-css-group/awesome-css#readme
 - https://github.com/aldi/awesome-bulma#readme#readme
-
+- https://github.com/yjjnls/awesome-blockchain
 ## Articles to read
 
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
@@ -40,6 +40,16 @@ my list of things i starred
 - [MayaJS](https://github.com/mayajs/maya) A simple Node.js framework for creating fast and scalable server-side applications.
 - [SolidJS](https://github.com/solidjs/solid)A declarative, efficient and flexible JavaScript library for building user interfaces.
 - [Git Toobelt](https://github.com/nvie/git-toolbelt) Helper tools to make everyday life with Git much easier. 
+## PHP
+
+- https://github.com/FeastFramework/framework
+- https://github.com/prooph/event-sourcing
+- https://github.com/yiisoft/yii2
+- https://github.com/elementary/website
+- https://github.com/tighten/jigsaw
+- https://github.com/sculpin/sculpin
+- https://github.com/deprecated-packages/statie
+- 
 ## Emacs
 - https://github.com/noctuid/evil-guide
 
@@ -108,6 +118,7 @@ my list of things i starred
 - https://github.com/carhartl/jquery-cookie
 
 ## Crypto things
+
 - https://github.com/ethereum/web3.js
 
 ## Career things
