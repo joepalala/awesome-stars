@@ -1,21 +1,23 @@
-# awesome-stars
-my list of things i starred
+# THIS
+
+list of **TH**ings **I** **S**tarred
+
 
 ## Other awesome lists
+
+These are awesomelists that I liked. There are many more at https://github.com/sindresorhus/awesome.
 
 - [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted/#readme)
 - [Awesome-vim](https://github.com/akrawchyk/awesome-vim#readme)
 - [Awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku#readme)
 - [Awesome-maintenance-modules](https://github.com/maxogden/maintenance-modules#readme)
-
-These are awesomelists that I liked. There are many more at https://github.com/sindresorhus/awesome.
-
 - [Awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 - https://github.com/enaqx/awesome-react#readme
 - https://github.com/RyanZim/awesome-npm-scripts#readme
 - https://github.com/Richienb/awesome-ponyfills#readme
 - https://github.com/hachiojipm/awesome-perl#readme
 - https://github.com/vinta/awesome-python#readme
+- https://news.ycombinator.com/item?id=20656411
 - https://github.com/qinwf/awesome-R#readme
 - https://github.com/ziadoz/awesome-php#readme
 - https://github.com/mateusortiz/webcomponents-the-right-way#readme
@@ -82,6 +84,8 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - [MayaJS](https://github.com/mayajs/maya) A simple Node.js framework for creating fast and scalable server-side applications.
 - [SolidJS](https://github.com/solidjs/solid)A declarative, efficient and flexible JavaScript library for building user interfaces.
 - [Git Toobelt](https://github.com/nvie/git-toolbelt) Helper tools to make everyday life with Git much easier. 
+- [Guides, tools and libraries for modern web development.](https://modern-web.dev/docs/dev-server/overview/)
+
 ## PHP
 
 - https://github.com/FeastFramework/framework
