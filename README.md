@@ -85,7 +85,8 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - [SolidJS](https://github.com/solidjs/solid)A declarative, efficient and flexible JavaScript library for building user interfaces.
 - [Git Toobelt](https://github.com/nvie/git-toolbelt) Helper tools to make everyday life with Git much easier. 
 - [Guides, tools and libraries for modern web development.](https://modern-web.dev/docs/dev-server/overview/)
-
+- [`WithFig/autocomplete`](https://github.com/withfig/autocomplete)
+- 
 ## PHP
 
 - https://github.com/FeastFramework/framework
