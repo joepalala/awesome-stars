@@ -96,6 +96,17 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/tighten/jigsaw
 - https://github.com/sculpin/sculpin
 - https://github.com/deprecated-packages/statie
+- https://github.com/spatie/enum
+- https://github.com/JesseObrien/laravel-cheatsheet
+- https://github.com/hidran/minimvc
+- https://github.com/ezimuel/FastPriorityQueue
+- https://github.com/CodelyTV/php-ddd-example
+- https://github.com/stretchy/stretchy
+- https://github.com/ezimuel/PHP-design-patterns
+
+## Laravel
+
+- https://github.com/laravel/breeze
 - 
 ## Emacs
 - https://github.com/noctuid/evil-guide
@@ -404,15 +415,6 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/request/request
 - https://github.com/mattermost/mattermost-server
 - https://github.com/k0kubun/hamlit
-
-## php 
-
-- https://github.com/JesseObrien/laravel-cheatsheet
-- https://github.com/hidran/minimvc
-- https://github.com/ezimuel/FastPriorityQueue
-- https://github.com/CodelyTV/php-ddd-example
-- https://github.com/stretchy/stretchy
-- https://github.com/ezimuel/PHP-design-patterns
 
 ## hackernews bookmarks
 
