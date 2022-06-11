@@ -1,6 +1,6 @@
-# THIS
+# TIS - Things I Starred
 
-list of **TH**ings **I** **S**tarred
+list of **T**hings **I** **S**tarred
 
 
 ## Other awesome lists
