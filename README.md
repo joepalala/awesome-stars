@@ -74,7 +74,6 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/fcambus/nginx-resources
 - https://github.com/nadunindunil/awesome-material-ui
 - https://github.com/componently-com/awesome-building-blocks-for-web-apps
-- 
 ## Articles to read
 
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
@@ -130,18 +129,32 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/goldbergyoni/nodebestpractices
 - https://github.com/github/fetch
 - https://github.com/giltayar/proposal-types-as-comments
-- [loadCSS](https://github.com/filamentgroup/loadCSS): Load CSS asynchronously
+- [loadCSS](https://github.com/filamentgroup/loadCSS): Load CSS asynchronously 
+
 ## css frameworks
 
 - https://github.com/mui-org/material-ui
+- https://www.material-tailwind.com/
+- https://www.muicss.com/
+- https://materializecss.com/
 - https://vizuaalog.github.io/BulmaJS/
-
+- https://github.com/Airmime/minstyle.io
+- https://stylify.dev/
+- https://github.com/ElemeFE/element
+- https://purecss.io/
+- [tacit](https://yegor256.github.io/tacit/)
 
 ## css things
--  https://github.com/purifycss/purifycss
 
+-  https://github.com/purifycss/purifycss
+- https://purgecss.com/
+- http://koala-app.com/
+- https://github.com/pranayjoshicse/Debug-CSS
+- https://webcode.tools/generators/css
+- https://www.sassmeister.com/
+- [Figma to CSS](https://www.figma.com/community/plugin/972939585144317012/Figma-to-CSS)
  
-## backend things
+## nodejs backend things
 - https://github.com/remy/nodemon
 - https://www.npmjs.com/package/forever
 - https://pm2.keymetrics.io/
