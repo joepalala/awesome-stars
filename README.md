@@ -42,6 +42,7 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/irazasyed/awesome-cloudflare
 - https://github.com/jonleibowitz/awesome-digitalocean#readme
 - https://github.com/sindresorhus/awesome-observables
+
 - https://github.com/standard/awesome-standard
 - https://github.com/wbinnssmith/awesome-promises
 - https://github.com/parro-it/awesome-micro-npm-packages
@@ -125,36 +126,55 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/facebook/create-react-app
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/axios/axios
-- https://github.com/mui-org/material-ui
+
 - https://github.com/goldbergyoni/nodebestpractices
 - https://github.com/github/fetch
 - https://github.com/giltayar/proposal-types-as-comments
 - [loadCSS](https://github.com/filamentgroup/loadCSS): Load CSS asynchronously
+## css frameworks
+
+- https://github.com/mui-org/material-ui
+- https://vizuaalog.github.io/BulmaJS/
+
+
+## css things
+-  https://github.com/purifycss/purifycss
+
+ 
 ## backend things
 - https://github.com/remy/nodemon
 - https://www.npmjs.com/package/forever
 - https://pm2.keymetrics.io/
 - https://github.com/markedjs/marked
-
+- https://github.com/sindresorhus/dot-prop
+- https://github.com/mdx-js/mdx/
 
 ### Logging
 
 - https://github.com/winstonjs/winston
 - https://github.com/trentm/node-bunyan
-
+- https://www.npmjs.com/package/@types/morgan
+- 
 ### Devops/Monitoring
 - https://github.com/fzaninotto/uptime
 
 ### uploader
 - https://github.com/transloadit/uppy
+- https://github.com/FineUploader/fine-uploader
+
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/hammerjs/hammer.js
+
+### Progress bars
 - https://github.com/rstacruz/nprogress
 - https://github.com/localForage/localForage
+
 - https://github.com/lovell/sharp
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/defunkt/jquery-pjax
-- https://github.com/wekan/wekan
+- [Wekan](https://github.com/wekan/wekan), an opensource kanban
+ 
+## testing nodejs
 - https://github.com/visionmedia/superagent
 - https://github.com/jquense/yup
 - https://github.com/Matt-Esch/virtual-dom
@@ -165,10 +185,10 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/nock/nock
 - https://github.com/javve/list.js
 - https://github.com/Netflix/falcor
-- https://github.com/purifycss/purifycss
 - https://github.com/vuejs-templates/webpack
-- https://github.com/sdelements/lets-chat
-- https://github.com/afaqurk/linux-dash
+
+- [Lets chat](https://github.com/sdelements/lets-chat): Self-hosted chat for teams)
+- [Linux Dash(https://github.com/afaqurk/linux-dash): Beautiful web dashboard for linux servers
 
 ## Jquery things
 
@@ -178,13 +198,18 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 
 - https://github.com/ethereum/web3.js
 
+
+
 ## Career things
 - https://github.com/hacksalot/HackMyResume
 - https://github.com/olistic/warriorjs
+
+## CLI
+
+
 - https://github.com/addyosmani/critical
 - https://github.com/DevExpress/testcafe
 - https://github.com/expressjs/multer
-- https://github.com/FineUploader/fine-uploader
 - https://github.com/yargs/yargs
 - https://github.com/danialfarid/ng-file-upload
 - https://github.com/segmentio/metalsmith
