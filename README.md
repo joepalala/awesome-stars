@@ -1,7 +1,6 @@
-# TIS - Things I Starred
+# Starred
 
-list of **T**hings **I** **S**tarred
-
+Curated List of starred opensource projects
 
 ## Other awesome lists
 
@@ -42,7 +41,6 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/irazasyed/awesome-cloudflare
 - https://github.com/jonleibowitz/awesome-digitalocean#readme
 - https://github.com/sindresorhus/awesome-observables
-
 - https://github.com/standard/awesome-standard
 - https://github.com/wbinnssmith/awesome-promises
 - https://github.com/parro-it/awesome-micro-npm-packages
@@ -74,6 +72,9 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/fcambus/nginx-resources
 - https://github.com/nadunindunil/awesome-material-ui
 - https://github.com/componently-com/awesome-building-blocks-for-web-apps
+
+
+
 ## Articles to read
 
 - [Ben NOrthrop - A better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
@@ -142,13 +143,13 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://stylify.dev/
 - https://github.com/ElemeFE/element
 - https://purecss.io/
-- [tacit](https://yegor256.github.io/tacit/)
+- [tacit](https://yegor256.github.io/tacit/):Tacit is a CSS framework for dummies, who want their web services to look attractive but have almost zero skills in graphic design, just like myself. 
 
 ## css things
 
--  https://github.com/purifycss/purifycss
+- [PurifyCSS](https://github.com/purifycss/purifycss): A function that takes content (HTML/JS/PHP/etc) and CSS, and returns only the used CSS.
 - https://purgecss.com/
-- http://koala-app.com/
+- [Koala App](http://koala-app.com/): Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation
 - https://github.com/pranayjoshicse/Debug-CSS
 - https://webcode.tools/generators/css
 - https://www.sassmeister.com/
@@ -161,7 +162,7 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/markedjs/marked
 - https://github.com/sindresorhus/dot-prop
 - https://github.com/mdx-js/mdx/
-
+- https://github.com/orliesaurus/nodemailer-mailgun-transport
 ### Logging
 
 - https://github.com/winstonjs/winston
@@ -187,7 +188,7 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/defunkt/jquery-pjax
 - [Wekan](https://github.com/wekan/wekan), an opensource kanban
  
-## testing nodejs
+## NodeJS Testing
 - https://github.com/visionmedia/superagent
 - https://github.com/jquense/yup
 - https://github.com/Matt-Esch/virtual-dom
@@ -198,10 +199,15 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/nock/nock
 - https://github.com/javve/list.js
 - https://github.com/Netflix/falcor
+
+## Vue things
 - https://github.com/vuejs-templates/webpack
 
+## Self-hosted things
 - [Lets chat](https://github.com/sdelements/lets-chat): Self-hosted chat for teams)
 - [Linux Dash(https://github.com/afaqurk/linux-dash): Beautiful web dashboard for linux servers
+- [Wekan](https://wekan.github.io/): Open-Source kanban.
+
 
 ## Jquery things
 
@@ -216,6 +222,9 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 ## Career things
 - https://github.com/hacksalot/HackMyResume
 - https://github.com/olistic/warriorjs
+- [StandardResume](https://standardresume.co/): Resume thing. Altenatives: [ProductHunt.com](https://www.producthunt.com/products/standard-resume/alternatives)
+- [Roadmap.sh](https://roadmap.sh/) - Developer roadmaps
+- [Architecture Notes](https://architecturenotes.co/) - Learn about the systems you use everyday from the engineers who built them. :lightning:
 
 ## CLI
 
