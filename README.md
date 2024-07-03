@@ -222,7 +222,9 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 
 - https://github.com/ethereum/web3.js
 
+## Static Pages Services
 
+- [Gitment](https://github.com/imsun/gitment) - way to comment
 
 ## Career things
 - https://github.com/hacksalot/HackMyResume
