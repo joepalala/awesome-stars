@@ -163,6 +163,11 @@ These are awesomelists that I liked. There are many more at https://github.com/s
 - https://github.com/sindresorhus/dot-prop
 - https://github.com/mdx-js/mdx/
 - https://github.com/orliesaurus/nodemailer-mailgun-transport
+
+## auth
+
+- https://github.com/lucia-auth/lucia (See https://upstash.com/blog/lucia-sveltekit)
+
 ### Logging
 
 - https://github.com/winstonjs/winston
